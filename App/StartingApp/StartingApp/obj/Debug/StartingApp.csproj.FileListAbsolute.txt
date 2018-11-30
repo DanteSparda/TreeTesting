@@ -1,0 +1,7 @@
+D:\Projects\Test\TreeTesting\App\StartingApp\StartingApp\bin\Debug\StartingApp.exe.config
+D:\Projects\Test\TreeTesting\App\StartingApp\StartingApp\bin\Debug\StartingApp.exe
+D:\Projects\Test\TreeTesting\App\StartingApp\StartingApp\bin\Debug\StartingApp.pdb
+D:\Projects\Test\TreeTesting\App\StartingApp\StartingApp\obj\Debug\StartingApp.csprojResolveAssemblyReference.cache
+D:\Projects\Test\TreeTesting\App\StartingApp\StartingApp\obj\Debug\StartingApp.csproj.CoreCompileInputs.cache
+D:\Projects\Test\TreeTesting\App\StartingApp\StartingApp\obj\Debug\StartingApp.exe
+D:\Projects\Test\TreeTesting\App\StartingApp\StartingApp\obj\Debug\StartingApp.pdb
